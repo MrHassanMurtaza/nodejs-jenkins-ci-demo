@@ -1,0 +1,28 @@
+{
+  "name": "circleci-nodejs-demo",
+  "version": "1.0.0",
+  "description": "Nodejs CICD using circleci",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHassanMurtaza/circleci-nodejs-demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "circleci",
+    "demo"
+  ],
+  "author": "MrHassanMurtaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrHassanMurtaza/circleci-nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/MrHassanMurtaza/circleci-nodejs-demo#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}

@@ -23,6 +23,6 @@
   "homepage": "https://github.com/MrHassanMurtaza/circleci-nodejs-demo#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
